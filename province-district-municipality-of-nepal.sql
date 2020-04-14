@@ -908,7 +908,7 @@ INSERT INTO `provinces` (`province_id`, `province_name`) VALUES
 (6, 'Karnali Pradesh'),
 (1, 'Province no. 1'),
 (2, 'Province no. 2'),
-(3, 'Province no. 3'),
+(3, 'Bagmati Pradesh'),
 (5, 'Province no. 5'),
 (7, 'Sudurpashchim Pradesh');
 
